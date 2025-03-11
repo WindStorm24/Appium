@@ -1,0 +1,24 @@
+{
+    "The Grosvenor Hotel": {
+        "11-14": {
+            "Booking.com": "$232",
+            "screenshot": "screenshot 11-14.png"
+        },
+        "12-17": {
+            "Expedia.com": "$232",
+            "screenshot": "screenshot 12-17.png"
+        },
+        "20-29": {
+            "Expedia.com": "$236",
+            "screenshot": "screenshot 20-29.png"
+        },
+        "13-19": {
+            "Booking.com": "$232",
+            "screenshot": "screenshot 13-19.png"
+        },
+        "15-16": {
+            "Booking.com": "$232",
+            "screenshot": "screenshot 15-16.png"
+        }
+    }
+}
