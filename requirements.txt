@@ -1,0 +1,7 @@
+Appium_Python_Client==4.5.1
+Appium_Python_Client==4.5.1
+celery==5.4.0
+fastapi==0.115.11
+pydantic==2.10.6
+selenium==4.29.0
+uvicorn==0.34.0
